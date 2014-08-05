@@ -1,0 +1,10 @@
+{
+  "name": "nodebb-theme-gruppe-adler",
+  "version": "0.0.0",
+  "description": "Gruppe Adler Arma community theme",
+  "main": "theme.less",
+  "keywords": [
+
+  ],
+  "license": "MIT"
+}
